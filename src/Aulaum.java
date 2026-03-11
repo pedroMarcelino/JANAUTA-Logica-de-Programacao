@@ -6,7 +6,5 @@ public class Aulaum {
         System.out.println("Sequencial");
         System.out.println("logica");
         System.out.println("nao está em");
-
-
     }
 }
