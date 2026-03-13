@@ -30,6 +30,8 @@ public class estruturaIfElse {
             System.out.println("nao sobrou nada pro betinha, nao pede nada");
         }
 
+        String msg = (temDinheiro) ? "tem dinheiro" : "nao tem dinheiro";
+        System.out.println(msg);
 
     }
 }
