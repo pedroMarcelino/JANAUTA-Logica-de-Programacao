@@ -26,5 +26,7 @@ public class Casa {
 
         casaVizinho.alterarCaracteristicas(96, 5, 4, "Granito");
         casaVizinho.mudarCorParede("Azul");
+        int metragemVizinho = casaVizinho.somarMetragem();
+        System.out.println(metragemVizinho);
     }
 }
