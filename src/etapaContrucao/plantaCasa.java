@@ -1,6 +1,6 @@
 package etapaContrucao;
 
-public class plantaCasa {
+public class plantaCasa implements Contrucao {
     //atributos
     public int metragem;
     public int numQuartos;
@@ -35,5 +35,20 @@ public class plantaCasa {
         material = mat;
 
         contruir();
+    }
+
+    @Override
+    public void construir() {
+
+    }
+
+    @Override
+    public void pintar(String cor) {
+        System.out.println("Pintando A casa com a cor: " + cor);
+    }
+
+    @Override
+    public int calcularCustoContrucao(int custoMetro) {
+        return 0;
     }
 }
