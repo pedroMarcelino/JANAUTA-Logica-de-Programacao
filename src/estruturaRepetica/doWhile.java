@@ -1,3 +1,5 @@
+package estruturaRepetica;
+
 public class doWhile {
     public static void main(String[] args) {
         int contador = 0;

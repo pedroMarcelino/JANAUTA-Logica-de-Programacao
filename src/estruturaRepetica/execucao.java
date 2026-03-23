@@ -1,3 +1,5 @@
+package estruturaRepetica;
+
 public class execucao {
     public static void main(String[] args) {
         Integer cpf = 456321987;

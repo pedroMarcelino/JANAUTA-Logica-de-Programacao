@@ -1,3 +1,5 @@
+package logicaSequencial;
+
 public class Aulaum {
     public static void main(String[] args) {
         System.out.println("logica");

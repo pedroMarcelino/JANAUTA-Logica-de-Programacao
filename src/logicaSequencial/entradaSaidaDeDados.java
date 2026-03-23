@@ -1,3 +1,5 @@
+package logicaSequencial;
+
 import java.util.Scanner;
 
 public class entradaSaidaDeDados {

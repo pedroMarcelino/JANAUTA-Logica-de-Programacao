@@ -1,3 +1,5 @@
+package LogicaCondicional;
+
 public class expressaoComparativas {
     public static void main(String[] args) {
         int pao = 10;

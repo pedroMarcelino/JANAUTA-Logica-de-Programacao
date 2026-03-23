@@ -1,3 +1,5 @@
+package logicaSequencial;
+
 public class OperadoresAritimeticos {
     public static void main(String[] args) {
         double  pao = 7.00;

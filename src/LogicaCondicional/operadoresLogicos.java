@@ -1,3 +1,5 @@
+package LogicaCondicional;
+
 public class operadoresLogicos {
     public static void main(String[] args) {
         boolean var_true = true;

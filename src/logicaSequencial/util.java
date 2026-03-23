@@ -1,3 +1,5 @@
+package logicaSequencial;
+
 public class util {
     public static int somarInts (int a, int b ){
         return a+b;
